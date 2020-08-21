@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/primetodo/precache-manifest.911e33d1e1444aeb0e2e07cbf3cd407d.js"
+  "/primetodo/precache-manifest.2111fe59c4ec4084a92daada2149373f.js"
 );
 
 self.addEventListener('message', (event) => {
