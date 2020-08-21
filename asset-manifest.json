@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/primetodo/static/css/main.6b0c89d3.chunk.css",
+    "main.js": "/primetodo/static/js/main.b229b719.chunk.js",
+    "main.js.map": "/primetodo/static/js/main.b229b719.chunk.js.map",
+    "runtime-main.js": "/primetodo/static/js/runtime-main.3f23f76c.js",
+    "runtime-main.js.map": "/primetodo/static/js/runtime-main.3f23f76c.js.map",
+    "static/css/2.958e21da.chunk.css": "/primetodo/static/css/2.958e21da.chunk.css",
+    "static/js/2.b8be14c4.chunk.js": "/primetodo/static/js/2.b8be14c4.chunk.js",
+    "static/js/2.b8be14c4.chunk.js.map": "/primetodo/static/js/2.b8be14c4.chunk.js.map",
+    "index.html": "/primetodo/index.html",
+    "precache-manifest.911e33d1e1444aeb0e2e07cbf3cd407d.js": "/primetodo/precache-manifest.911e33d1e1444aeb0e2e07cbf3cd407d.js",
+    "service-worker.js": "/primetodo/service-worker.js",
+    "static/css/2.958e21da.chunk.css.map": "/primetodo/static/css/2.958e21da.chunk.css.map",
+    "static/css/main.6b0c89d3.chunk.css.map": "/primetodo/static/css/main.6b0c89d3.chunk.css.map",
+    "static/js/2.b8be14c4.chunk.js.LICENSE.txt": "/primetodo/static/js/2.b8be14c4.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/primetodo/static/media/line.567f5738.gif",
+    "static/media/done.png": "/primetodo/static/media/done.38fa65e3.png",
+    "static/media/theme.css": "/primetodo/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/primetodo/static/media/primeicons.79432094.woff",
+    "static/media/todo.png": "/primetodo/static/media/todo.20908dff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f23f76c.js",
+    "static/css/2.958e21da.chunk.css",
+    "static/js/2.b8be14c4.chunk.js",
+    "static/css/main.6b0c89d3.chunk.css",
+    "static/js/main.b229b719.chunk.js"
+  ]
+}
