@@ -1,0 +1,49 @@
+.todoItem {
+    margin: 20px;
+    padding: 5px;
+    border-radius: 100px;
+    transition: all .4s ease-in-out;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.todoItem:hover {
+    background-color: lightslategray;
+    transform: scale(1.05);
+}
+.primelogo {
+    width:150px;
+    filter: drop-shadow(0px 0px 50px #fff);
+    height:150px;
+    margin-bottom:30px;
+    animation: rotation 4s infinite alternate;
+}
+@keyframes rotation {
+    from {
+        transform: rotatey(0deg);
+    }
+    to {
+        transform: rotatey(359deg);
+    }
+}
+
+.textFont {
+    font: 20px Arial, sans-serif;
+    font-weight: bold;
+}
+.cardContainer {
+    border-radius: 10px;
+    background: linear-gradient(-135deg, #CC95C0 0%, #DBD4B4 50%, #7AA1D2 100%);
+    max-height: 700px;
+    overflow-y: auto;
+}
+.itemPadding {
+    padding: 1px !important;
+}
+.btnSub {
+    transition: all .4s ease;
+}
+.btnSub:hover {
+    background-color: #CC95C0 !important;
+    transform: scale(1.8);
+}
